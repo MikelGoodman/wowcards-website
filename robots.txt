@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Staging — all HTML also has noindex, nofollow

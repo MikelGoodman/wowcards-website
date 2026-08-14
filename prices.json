@@ -1,0 +1,266 @@
+{
+  "currency": "AUD",
+  "gstIncluded": true,
+  "delivery": "Free Delivery Australia Wide",
+  "note": "Published PR Australia quantity breaks only. Do not interpolate in-between prices.",
+  "contact": {
+    "phone": "1800 801 901",
+    "email": "info@pr.com.au",
+    "from": "PR Australia, Terrigal NSW"
+  },
+  "products": [
+    {
+      "id": "gift",
+      "name": "Gift Cards",
+      "short": "Gift",
+      "blurb": "Shop, venue and promo cards. Credit-card size, printed both sides.",
+      "breaks": [
+        {
+          "qty": 250,
+          "price": 264
+        },
+        {
+          "qty": 500,
+          "price": 315
+        },
+        {
+          "qty": 1000,
+          "price": 472
+        },
+        {
+          "qty": 2000,
+          "price": 785
+        },
+        {
+          "qty": 5000,
+          "price": 1744
+        },
+        {
+          "qty": 10000,
+          "price": 2855
+        }
+      ],
+      "pricedExtras": [],
+      "quoteExtras": [
+        {
+          "id": "barcode",
+          "label": "Barcode"
+        },
+        {
+          "id": "magstripe",
+          "label": "Magstripe"
+        },
+        {
+          "id": "numbering",
+          "label": "Numbering"
+        }
+      ]
+    },
+    {
+      "id": "member",
+      "name": "Member Cards",
+      "short": "Member",
+      "blurb": "Clubs, gyms and loyalty. Same published tiers as gift and business cards.",
+      "breaks": [
+        {
+          "qty": 250,
+          "price": 264
+        },
+        {
+          "qty": 500,
+          "price": 315
+        },
+        {
+          "qty": 1000,
+          "price": 472
+        },
+        {
+          "qty": 2000,
+          "price": 785
+        },
+        {
+          "qty": 5000,
+          "price": 1744
+        },
+        {
+          "qty": 10000,
+          "price": 2855
+        }
+      ],
+      "pricedExtras": [],
+      "quoteExtras": [
+        {
+          "id": "barcode",
+          "label": "Barcode"
+        },
+        {
+          "id": "magstripe",
+          "label": "Magstripe"
+        },
+        {
+          "id": "numbering",
+          "label": "Numbering"
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "name": "Business Cards",
+      "short": "Business",
+      "blurb": "Plastic business cards that outlast paper stock.",
+      "breaks": [
+        {
+          "qty": 250,
+          "price": 264
+        },
+        {
+          "qty": 500,
+          "price": 315
+        },
+        {
+          "qty": 1000,
+          "price": 472
+        },
+        {
+          "qty": 2000,
+          "price": 785
+        },
+        {
+          "qty": 5000,
+          "price": 1744
+        },
+        {
+          "qty": 10000,
+          "price": 2855
+        }
+      ],
+      "pricedExtras": [],
+      "quoteExtras": [
+        {
+          "id": "barcode",
+          "label": "Barcode"
+        },
+        {
+          "id": "magstripe",
+          "label": "Magstripe"
+        },
+        {
+          "id": "numbering",
+          "label": "Numbering"
+        }
+      ]
+    },
+    {
+      "id": "keytags",
+      "name": "Keytags",
+      "short": "Keytags",
+      "blurb": "Compact tags for gyms, keys and scan-and-go. Hole-punched.",
+      "breaks": [
+        {
+          "qty": 250,
+          "price": 274
+        },
+        {
+          "qty": 500,
+          "price": 428
+        },
+        {
+          "qty": 1000,
+          "price": 603
+        },
+        {
+          "qty": 2000,
+          "price": 784
+        },
+        {
+          "qty": 3000,
+          "price": 987
+        },
+        {
+          "qty": 4000,
+          "price": 1433
+        },
+        {
+          "qty": 5000,
+          "price": 1705
+        },
+        {
+          "qty": 10000,
+          "price": 2749
+        },
+        {
+          "qty": 20000,
+          "price": 5047
+        }
+      ],
+      "pricedExtras": [
+        {
+          "id": "barcode",
+          "label": "Barcoding",
+          "price": 50,
+          "from": false
+        },
+        {
+          "id": "sequential",
+          "label": "Sequential Numbers",
+          "price": 50,
+          "from": false
+        },
+        {
+          "id": "foil",
+          "label": "Foil Stamping",
+          "price": 100,
+          "from": true
+        }
+      ],
+      "quoteExtras": []
+    },
+    {
+      "id": "premium",
+      "name": "Premium Cards",
+      "short": "Premium",
+      "blurb": "A richer card for when the stock itself needs to feel special.",
+      "breaks": [
+        {
+          "qty": 250,
+          "price": 399
+        },
+        {
+          "qty": 500,
+          "price": 499
+        },
+        {
+          "qty": 1000,
+          "price": 679
+        },
+        {
+          "qty": 2000,
+          "price": 989
+        },
+        {
+          "qty": 5000,
+          "price": 2120
+        },
+        {
+          "qty": 10000,
+          "price": 3498
+        }
+      ],
+      "pricedExtras": [],
+      "quoteExtras": [
+        {
+          "id": "barcode",
+          "label": "Barcode"
+        },
+        {
+          "id": "magstripe",
+          "label": "Magstripe"
+        },
+        {
+          "id": "numbering",
+          "label": "Numbering"
+        }
+      ]
+    }
+  ]
+}
